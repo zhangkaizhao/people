@@ -1,0 +1,6 @@
+Welcome to async/await era
+PyCon Finland 2015 . 19th of October, 2015
+
+Speaker Deck: https://speakerdeck.com/playpauseandstop/await-era
+
+Slides: http://igordavydenko.com/talks/fi-pycon-2015/

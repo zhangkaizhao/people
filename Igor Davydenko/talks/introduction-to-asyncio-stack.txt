@@ -1,0 +1,5 @@
+Introduction to Asyncio Stack
+Lviv.py#4. 30th of May, 2015
+Speaker Deck: https://speakerdeck.com/playpauseandstop/introduction-to-asyncio-stack
+Slides: http://igordavydenko.com/talks/lvivpy-4/
+Video (rus): https://www.youtube.com/watch?v=jqU8l9EBQ54
