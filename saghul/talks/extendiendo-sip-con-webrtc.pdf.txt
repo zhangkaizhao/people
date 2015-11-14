@@ -1,0 +1,12 @@
+http://www.slideshare.net/saghul/extendiendo-sip-con-webrtc
+
+
+Extendiendo SIP con WebRTC
+
+Saúl Ibarra Corretgé, R&D Director at AG Projects
+
+Published on Nov 13, 2015
+
+Slides from the talk I gave at VoIP2day 2015 in Madrid about how to extend SIP networks to support WebRTC endpoints.
+
+Published in: Technology
